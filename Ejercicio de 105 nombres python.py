@@ -27,6 +27,8 @@ str_nombre = ''
     
 for enu, i_name in enumerate(lista_nombres):
     str_nombre = str_nombre + f'\n{enu}: ' + i_name
+    
+print("i-name")
                
                 
                 
